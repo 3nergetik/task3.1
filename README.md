@@ -20,7 +20,7 @@ JavaScript:
 
 Java (Maven):
 
-```
+```html
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
